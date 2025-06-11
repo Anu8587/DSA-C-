@@ -67,10 +67,40 @@ for (int i = 1; i<= n; i++){
 } */
 
 //------------pattern 6
-for (int i =1; i<=20;i++){
+/*for (int i =1; i<=20;i++){
  for(int j=1; j<=10;j++){
  cout<< i*j<< " ";
 }
  cout<<endl;
 }
+} */
+/*
+for (int i = 1;i<=4;i++){
+  for (int j=1; j<=6; j++){
+    cout <<"0";
+  }
+  cout<<endl;
+}
+
+
+for (int i=1; i <= 4;i++){
+  for (int j=1; j<=i; j++){
+    cout<< "0 ";
+  }
+  cout<< endl;
+
+}
+  ----------------pattern 7
+000000
+000000
+000000
+000000
+0
+0 0 
+0 0 0
+0 0 0 0  
+
+ */
+
+
 }
