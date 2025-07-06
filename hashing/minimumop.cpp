@@ -27,4 +27,11 @@ int main(){
 
 //optimized using hashing
 
+int size(int):
+x^n regt:
+prices = [11,10,2,3,4]
+return max pointer_to_unary_function
+x=100,y=200
+return xy;
+x= []
 }
